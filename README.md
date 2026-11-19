@@ -7,10 +7,13 @@ IT Engineering Student at Polytech Tours. Focused on software engineering, netwo
 - Languages: C, C++, Python, Java
 - Web & Database: HTML, CSS, JavaScript, MySQL, MariaDB, PHP
 - Architecture: Software Design, System Architecture, Network Sockets
+- Framework: Django
 - Tools: GitHub
 
 ## Project
-- PointeurProject
+- [PointeurProject](https://github.com/Carat39/PointeurProject) : Client-Server application using Java Socket to exchange real-time data.
+- [ProjetCPPModern](https://github.com/Carat39/ProjetCPPModern) : Two C++ games utilizing template method dessign pattern.
+- [DjangoWebSite](https://github.com/Carat39/DjangoTest) : A Web site made with Django framework.
 <!--
 **Carat39/Carat39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
